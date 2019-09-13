@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="372621f2-fd5e-427e-b164-e97c549215cf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>classname</find>
+      <find>classnames</find>
+      <find>babel-j</find>
+      <find>lg</find>
+      <find>modal</find>
+      <find>ModalsAdd</find>
+      <find>tip</find>
+      <find>Modals</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Documents\ReactJs\hue-nails-example\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qh5FTERd9NTXo64cXIfHERx8X0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Documents\ReactJs\hue-nails-example\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\ReactJs\hue-nails-example\src\views\examples\" />
+      <recent name="D:\Documents\ReactJs\hue-nails-example\src\views\examples\Button" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372621f2-fd5e-427e-b164-e97c549215cf" name="Default Changelist" comment="" />
+      <created>1563862470894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563862470894</updated>
+      <workItem from="1563862472848" duration="31742000" />
+      <workItem from="1563982219665" duration="25299000" />
+      <workItem from="1564106471862" duration="21993000" />
+      <workItem from="1564303260298" duration="3547000" />
+      <workItem from="1564365789705" duration="46493000" />
+      <workItem from="1564498374085" duration="23660000" />
+      <workItem from="1564625516400" duration="162000" />
+      <workItem from="1564625759912" duration="14000" />
+      <workItem from="1564626120381" duration="67523000" />
+      <workItem from="1564894929645" duration="6461000" />
+      <workItem from="1564988077396" duration="139000" />
+      <workItem from="1564988251107" duration="9180000" />
+      <workItem from="1565057361121" duration="17750000" />
+      <workItem from="1565574800745" duration="7556000" />
+      <workItem from="1565660937526" duration="3357000" />
+      <workItem from="1565752306123" duration="611000" />
+      <workItem from="1565756914999" duration="2127000" />
+      <workItem from="1565769014528" duration="936000" />
+      <workItem from="1565922445093" duration="24000" />
+      <workItem from="1565944980859" duration="89000" />
+      <workItem from="1566196868544" duration="20000" />
+      <workItem from="1566196968320" duration="23000" />
+      <workItem from="1566199124427" duration="10000" />
+      <workItem from="1567645441290" duration="2707000" />
+      <workItem from="1567684819617" duration="884000" />
+      <workItem from="1567734716451" duration="2270000" />
+      <workItem from="1567937286834" duration="595000" />
+      <workItem from="1568166951716" duration="35000" />
+      <workItem from="1568209216600" duration="77000" />
+      <workItem from="1568209585552" duration="89000" />
+      <workItem from="1568209908096" duration="1758000" />
+      <workItem from="1568248916850" duration="5677000" />
+      <workItem from="1568339170082" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
